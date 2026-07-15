@@ -96,7 +96,6 @@ HR-Employee-Attrition-Analysis/
 │   └── Attrition_Project.pbix
 ├── images/
 │   └── dashboard_screenshots/
-
 README.md
 
 
