@@ -122,5 +122,4 @@ README.md
 
 ## 👤 Author
 
-Thejushree
-Data Analyst | SQL · Power BI · Python
+Thejushree | SQL · Power BI · Python
